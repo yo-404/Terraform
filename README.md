@@ -32,7 +32,7 @@ sudo ./aws/install
 
 or
 
- # sudo apt-get install awscli
+sudo apt-get install awscli
 
 ## use of terraform
 
